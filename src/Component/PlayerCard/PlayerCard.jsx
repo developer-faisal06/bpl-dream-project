@@ -62,6 +62,7 @@ const PlayerCard = ({player, setBalance,balance, selectedPlayers,setSelectedPlay
                                     setBalance(balance-plainPrice)
                                     const newSelected=[...selectedPlayers, player ]
                                     setSelectedPlayers(newSelected)
+                                    toast("Player Added");
                                     }
 
                                     } className="btn btn-primary">{isSelected === true?"Selected":"Choose Player" }</button>

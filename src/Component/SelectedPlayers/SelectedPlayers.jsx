@@ -1,4 +1,5 @@
 import React from 'react';
+import { toast } from 'react-toastify';
 
 const SelectedPlayers = ({ selectedPlayers,removePlayer,setToggle }) => {
 
@@ -20,7 +21,10 @@ const SelectedPlayers = ({ selectedPlayers,removePlayer,setToggle }) => {
                                 </div>
                             </div>
 
-                            <button onClick={()=>removePlayer(player)} className="btn">
+                            <button onClick={()=>{
+                                removePlayer(player)
+                                toast("Removed")
+                            }} className="btn">
                                 <div className=' bg-red-500 px-2 text-2xl '>X</div>
                             </button>
                         </div>
