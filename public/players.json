@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "player_image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=600&h=400&auto=format&fit=crop",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "player_role": "All-rounder",
+    "rating": 9.5,
+    "bating_style": "Left-hand bat",
+    "bowing_style": "Slow left-arm orthodox",
+    "price": "80,00,000 BDT"
+  },
+  {
+    "id": 2,
+    "player_image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?q=80&w=600&h=400&auto=format&fit=crop",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "rating": 8.8,
+    "bating_style": "Left-hand bat",
+    "bowing_style": "N/A",
+    "price": "70,00,000 BDT"
+  },
+  {
+    "id": 3,
+    "player_image": "https://images.unsplash.com/photo-1624526267942-ab0ff8a3e972?q=80&w=600&h=400&auto=format&fit=crop",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "player_role": "Bowler",
+    "rating": 9.7,
+    "bating_style": "Right-hand bat",
+    "bowing_style": "Legbreak Googly",
+    "price": "1,00,00,000 BDT"
+  },
+  {
+    "id": 4,
+    "player_image": "https://images.unsplash.com/photo-1593341646782-e0b495cff86d?q=80&w=600&h=400&auto=format&fit=crop",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "player_role": "Bowler",
+    "rating": 8.5,
+    "bating_style": "Left-hand bat",
+    "bowing_style": "Left-arm fast-medium",
+    "price": "60,00,000 BDT"
+  },
+  {
+    "id": 5,
+    "player_image": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?q=80&w=600&h=400&auto=format&fit=crop",
+    "player_name": "Shoaib Malik",
+    "player_country": "Pakistan",
+    "player_role": "All-rounder",
+    "rating": 8.2,
+    "bating_style": "Right-hand bat",
+    "bowing_style": "Right-arm offbreak",
+    "price": "50,00,000 BDT"
+  },
+  {
+    "id": 6,
+    "player_image": "https://images.unsplash.com/photo-1608010669348-1e196f7e0429?q=80&w=600&h=400&auto=format&fit=crop",
+    "player_name": "Litton Das",
+    "player_country": "Bangladesh",
+    "player_role": "Wicketkeeper Batsman",
+    "rating": 8.4,
+    "bating_style": "Right-hand bat",
+    "bowing_style": "N/A",
+    "price": "65,00,000 BDT"
+  },
+  {
+    "id": 7,
+    "player_image": "https://images.unsplash.com/photo-1608010669348-1e196f7e0429?q=80&w=600&h=400&auto=format&fit=crop",
+    "player_name": "Litton ",
+    "player_country": "Bangladesh",
+    "player_role": "Wicketkeeper Batsman",
+    "rating": 8.4,
+    "bating_style": "Right-hand bat",
+    "bowing_style": "N/A",
+    "price": "65,00,000 BDT"
+  },
+  {
+    "id": 8,
+    "player_image": "https://images.unsplash.com/photo-1608010669348-1e196f7e0429?q=80&w=600&h=400&auto=format&fit=crop",
+    "player_name": "Noman",
+    "player_country": "Bangladesh",
+    "player_role": "Wicketkeeper Batsman",
+    "rating": 8.4,
+    "bating_style": "Right-hand bat",
+    "bowing_style": "N/A",
+    "price": "65,00,000 BDT"
+  }
+]
